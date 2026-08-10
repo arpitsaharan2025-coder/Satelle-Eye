@@ -1,0 +1,6 @@
+flask>=3.0
+flask-cors>=4.0
+numpy>=1.26
+Pillow>=10.0
+# Optional for relu_unet_turahalli_64.keras inference:
+# tensorflow>=2.16
